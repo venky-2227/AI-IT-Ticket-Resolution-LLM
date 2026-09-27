@@ -1,0 +1,21 @@
+ticket_id,issue,category,resolution_time_hours,resolution_class,category_code,cluster
+1,Password reset required,Account,1.2,Fast,0,0
+2,Unable to login,Account,2.5,Fast,0,0
+3,WiFi connection not working,Network,5.5,Medium,1,0
+4,Printer not responding,Hardware,7.2,Medium,2,0
+5,Software installation problem,Software,10.5,Slow,3,2
+6,Email not working,Email,4.0,Medium,4,1
+7,Computer running slow,Performance,15.5,Slow,5,2
+8,VPN connection failed,Network,8.5,Medium,1,0
+9,Password reset required,Account,1.0,Fast,0,0
+10,Blue screen error,Hardware,20.0,Slow,2,2
+11,WiFi connection not working,Network,6.0,Medium,1,0
+12,Email attachment problem,Email,3.5,Fast,4,1
+13,Printer not responding,Hardware,8.0,Medium,2,0
+14,VPN connection failed,Network,9.0,Medium,1,0
+15,Software installation problem,Software,11.0,Slow,3,2
+16,Unable to login,Account,2.0,Fast,0,0
+17,Computer running slow,Performance,14.5,Slow,5,2
+18,Email not working,Email,4.5,Medium,4,1
+19,System update failed,Software,12.0,Slow,3,2
+20,Blue screen error,Hardware,18.5,Slow,2,2

@@ -1,0 +1,21 @@
+user_issue,matched_guide,confidence,auto_response
+I forgot my password and cannot login,Password Reset,Medium,"Here are the recommended troubleshooting steps:
+
+Open the company password reset portal, enter your username, verify your identity, and create a new password."
+My office WiFi is not connecting,WiFi Connection Problem,High,I'm sorry for the inconvenience. I'm sorry for the inconvenience. I'm sorry for the inconvenience. I'm sorry for the inconvenience.
+The printer is offline and won't print,Printer Problem,Medium,I'm sorry but I can't help you. I'm sorry but I can't help you. I'm sorry.
+My computer is extremely slow,Computer Running Slow,Medium,"Here are the recommended troubleshooting steps:
+
+Close unnecessary applications, restart the computer, check available storage, disable unnecessary startup programs, and run the approved security scan."
+I cannot send or receive emails,Email Not Working,High,"Here are the recommended troubleshooting steps:
+
+Check the internet connection, verify mailbox storage, restart the email application, and sign in again. If the problem continues, contact the email administrator."
+The VPN connection keeps failing,VPN Connection Failure,Medium,"Here are the recommended troubleshooting steps:
+
+Check your internet connection, restart the VPN client, verify your company credentials, and reconnect. If the VPN server is unavailable, contact IT support."
+I cannot install the required software,Software Installation,Medium,"Here are the recommended troubleshooting steps:
+
+Verify that the software is approved by the organization. Check administrator permissions and available storage. If installation still fails, contact the software support team."
+My computer shows a blue screen,Blue Screen Error,Medium,"Here are the recommended troubleshooting steps:
+
+Restart the computer and record the error message. Install approved system updates and drivers. If the error continues, contact hardware support."

@@ -1,0 +1,9 @@
+title,problem,solution
+Password Reset,User forgot their password or cannot access their account.,"Open the company password reset portal, enter your username, verify your identity, and create a new password."
+WiFi Connection Problem,Computer cannot connect to the office WiFi network.,"Check that WiFi is enabled. Disconnect and reconnect to the network. Restart the WiFi adapter. If the problem continues, restart the computer and contact network support."
+VPN Connection Failure,User cannot connect to the company VPN.,"Check your internet connection, restart the VPN client, verify your company credentials, and reconnect. If the VPN server is unavailable, contact IT support."
+Printer Problem,Printer is offline or documents are not printing.,Check printer power and network connection. Make sure the correct printer is selected. Clear the print queue and restart the printer.
+Email Not Working,User cannot send or receive emails.,"Check the internet connection, verify mailbox storage, restart the email application, and sign in again. If the problem continues, contact the email administrator."
+Computer Running Slow,Computer performance is very slow.,"Close unnecessary applications, restart the computer, check available storage, disable unnecessary startup programs, and run the approved security scan."
+Software Installation,User cannot install required software.,"Verify that the software is approved by the organization. Check administrator permissions and available storage. If installation still fails, contact the software support team."
+Blue Screen Error,Computer displays a blue screen and restarts unexpectedly.,"Restart the computer and record the error message. Install approved system updates and drivers. If the error continues, contact hardware support."
